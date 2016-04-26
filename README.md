@@ -23,7 +23,7 @@ Sections
  * [Objective C](#objective_c)
  * [Swift](#swift)
  * [PHP](#php)
- * [Wordpress](#wordpress)
+ * [WordPress](#wordpress)
  * [Data Science](#data_science)
  * [Bitcoin](#bitcoin)
  * [Databases and Datastores](#databases_and_datastores)
@@ -85,11 +85,14 @@ PHP
  * [ProcessWire](https://github.com/ryancramerdesign/ProcessWire): ProcessWire 2.7. PHP 5 based CMS and CMF (content management system and framework). See the dev branch for the latest development version (new versions weekly).
  * [WildPHP](https://github.com/WildPHP/Wild-IRC-Bot): A simple and modular PHP IRC bot
 
-Wordpress
+WordPress
 ---------
 
  * [wordpress-widget-boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate): The WordPress Widget Boilerplate is an organized, maintainable boilerplate for building widgets using WordPress best practices.
  * [wordpress-settings-sandbox](https://github.com/tommcfarlin/WordPress-Settings-Sandbox): A simple theme used to showcase the WordPress Settings API. The corresponding series of articles will run on Envato's TutsPlus Network.
+ * [wplib](https://github.com/wplib): The Developer Experience Project for WordPress
+     * [wplib/wplib](https://github.com/wplib/wplib): A PHP Library plus Conventions for Building Robust Custom WordPress Apps
+     * [wplib/wplib-box](https://github.com/wplib/wplib-box): The Easiest Vagrant Box for WordPress Local Development 
  * [page-template-example](https://github.com/tommcfarlin/page-template-example): An example WordPress plugin used to show how to include templates with your plugins and programmatically add them to the active theme.
  * [less](https://github.com/alliswell/Less): A simple minimal WordPress theme built with only what is needed to survive
 
