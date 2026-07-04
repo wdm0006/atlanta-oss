@@ -38,7 +38,7 @@ Python
  * [gitnoc](https://github.com/wdm0006/gitnoc): A simple ui for git-pandas using nvd3 and flask
  * [pygeohash](https://github.com/wdm0006/pygeohash): Python module for interacting with geohashes
  * [socksjs-tornado](https://github.com/mrjoes/sockjs-tornado): WebSocket emulation - Python server
- * [flask-admin](https://github.com/flask-admin/flask-admin): Simple and extensible administrative interface framework for Flask
+ * [flask-admin](https://github.com/pallets-eco/flask-admin): Simple and extensible administrative interface framework for Flask
  * [django-celery-email](https://github.com/pmclanahan/django-celery-email): A Django 1.3+ email backend that uses a celery task for sending the email.
  * [smokesignal](https://github.com/shaunduncan/smokesignal): Simple python signaling
  * [peachpy](https://github.com/Maratyszcza/PeachPy): x86-64 assembler embedded in Python
@@ -47,7 +47,7 @@ Ruby
 ----
 
  * [zonebie](https://github.com/alindeman/zonebie): Zonebie prevents bugs in code that deals with timezones by randomly assigning a zone on every run
- * [teslon](https://github.com/timdorr/model-s-api): A Ruby gem and unofficial documentation of the Tesla JSON API
+ * [teslon](https://github.com/timdorr/tesla-api): A Ruby gem and unofficial documentation of the Tesla JSON API
  * [setler](https://github.com/ckdake/setler): Setler lets you use the 'Feature Flags' pattern or add settings to models in Rails
  * [inviter](https://github.com/tech404/inviter): The application behind the tech404 automatic invitation system
  * [git_time_extractor](https://github.com/rietta/git_time_extractor): Analyzes Git repository commit logs to compute developer working hours, weekly activity, and to detect death marches in software development.
@@ -57,7 +57,7 @@ Ruby
  * [searchlight](https://github.com/nathanl/searchlight): Searchlight helps you build searches from options via Ruby methods that you write. 
  * [authority](https://github.com/nathanl/authority): Authority helps you authorize actions in your Rails app. It's ORM-neutral and has very little fancy syntax; just group your models under one or more Authorizer classes and write plain Ruby methods on them.
  * [rack-cors](https://github.com/cyu/rack-cors): Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
- * [slack-notifier](https://github.com/stevenosloan/slack-notifier): A simple wrapper for posting to slack channels
+ * [slack-notifier](https://github.com/slack-notifier/slack-notifier): A simple wrapper for posting to slack channels
 
 Golang
 ------
@@ -74,7 +74,6 @@ Javascript
 
  * [Meow](https://github.com/zacstewart/Meow): A Growl work-a-like plugin for jQuery
  * [Black-Belt-AngularJS-Directives](https://github.com/joshkurz/Black-Belt-AngularJS-Directives): A Directive set to help Master AngularJS Directives
- * [gitty](https://github.com/gordonwritescode/gitty): a javascript wrapper for the git cli
  * [anyToJson](https://github.com/lastlegion/anyToJSON): Converts any data repository to JSON(or atleast strives to! :D). Currently converts flat-file JSON, flat-file CSV, REST JSON, REST CSV and Databases(via ODBC) to JSON.
  * [react-validation-mixin](https://github.com/jurassix/react-validation-mixin): Simple validation mixin (HoC) for React.
  * [react-render-mixin](https://github.com/jurassix/react-immutable-render-mixin): react pure render mixin for facebook/immutable-js library
@@ -83,7 +82,7 @@ PHP
 ---
 
  * [ProcessWire](https://github.com/ryancramerdesign/ProcessWire): ProcessWire 2.7. PHP 5 based CMS and CMF (content management system and framework). See the dev branch for the latest development version (new versions weekly).
- * [WildPHP](https://github.com/WildPHP/Wild-IRC-Bot): A simple and modular PHP IRC bot
+ * [WildPHP](https://github.com/WildPHP/irc-bot): A simple and modular PHP IRC bot
 
 WordPress
 ---------
@@ -114,7 +113,7 @@ JVM Languages
 Objective C
 -----------
 
- * [BlocksKit](https://github.com/zwaldowski/BlocksKit): The Objective-C block utilities you always wish you had.
+ * [BlocksKit](https://github.com/BlocksKit/BlocksKit): The Objective-C block utilities you always wish you had.
  * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications): An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.
  * [JFDepthView](https://github.com/atljeremy/JFDepthView): iOS project for presenting views with a 3D effect to add depth
 
@@ -126,12 +125,12 @@ Swift
 Lisp
 ----
 
- * [coleslaw](https://github.com/kingcons/coleslaw): Flexible Lisp Blogware
+ * [coleslaw](https://github.com/coleslaw-org/coleslaw): Flexible Lisp Blogware
 
 Data Science
 ------------
 
- * [categorical_encoding](https://github.com/wdm0006/categorical_encoding): A library for using and evaluating different methods of coding categorical variables
+ * [category_encoders](https://github.com/scikit-learn-contrib/category_encoders): A library for using and evaluating different methods of coding categorical variables
  * [petersburg](https://github.com/wdm0006/petersburg): A simple framework for simulating complex (probabalistic) decisions
 
 Bitcoin
@@ -144,14 +143,13 @@ Bitcoin
 Infrastructure and Monitoring
 -----------------------------
 
- * [ElasticHQ](https://github.com/royrusso/elasticsearch-HQ): Monitoring and Management Web Application for ElasticSearch instances and clusters.
+ * [ElasticHQ](https://github.com/ElasticHQ/elasticsearch-HQ): Monitoring and Management Web Application for ElasticSearch instances and clusters.
  * [foreman](https://github.com/ddollar/foreman): Manage Procfile-based applications
  * [chef-logstash](https://github.com/lusis/chef-logstash): Semi-official Logstash cookbook
 
 Databases and Datastores
 ------------------------
 
- * [concourse](https://github.com/cinchapi/concourse)
  * [automongobackup](https://github.com/micahwedemeyer/automongobackup): Nightly, rotated backups of MongoDB (port of AutoMySQLBackup for use with Mongo)
 
 Examples and Tutorials
@@ -160,7 +158,7 @@ Examples and Tutorials
  * [akka-java-examples](https://github.com/royrusso/akka-java-examples): Example implementation of various akka patterns in Java
  * [python-flink-examples](https://github.com/wdm0006/flink-python-examples): A collection of examples using flinks new python API
  * [angular-tutorial](https://github.com/sb8244/angular-tutorial): A newbie friendly tutorial for angular
- * [android-studio-robolectric-example](https://github.com/mutexkid/android-studio-robolectric-example): how to set up robolectric to work with Android Studio and gradle
+ * [android-studio-robolectric-example](https://github.com/joshskeen/android-studio-robolectric-example): how to set up robolectric to work with Android Studio and gradle
  * [AngularHealthApp](https://github.com/JeremyLikness/AngularHealthApp): Example of building a health application using AngularJS
  * [Botanig-NG](https://github.com/ghillert/botanic-ng): Angular JS Sample Application
  * [neural-networks-demystified](https://github.com/stephencwelch/Neural-Networks-Demystified): Supporting code for short YouTube series Neural Networks Demystified.
