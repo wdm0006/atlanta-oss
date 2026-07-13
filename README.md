@@ -37,7 +37,7 @@ Python
  * [git-pandas](https://github.com/wdm0006/git-pandas): A wrapper around gitpython to produce pandas dataframes for analysis
  * [gitnoc](https://github.com/wdm0006/gitnoc): A simple ui for git-pandas using nvd3 and flask
  * [pygeohash](https://github.com/wdm0006/pygeohash): Python module for interacting with geohashes
- * [socksjs-tornado](https://github.com/mrjoes/sockjs-tornado): WebSocket emulation - Python server
+ * [sockjs-tornado](https://github.com/mrjoes/sockjs-tornado): WebSocket emulation - Python server
  * [flask-admin](https://github.com/pallets-eco/flask-admin): Simple and extensible administrative interface framework for Flask
  * [django-celery-email](https://github.com/pmclanahan/django-celery-email): A Django 1.3+ email backend that uses a celery task for sending the email.
  * [smokesignal](https://github.com/shaunduncan/smokesignal): Simple python signaling
@@ -76,7 +76,7 @@ Javascript
  * [Black-Belt-AngularJS-Directives](https://github.com/joshkurz/Black-Belt-AngularJS-Directives): A Directive set to help Master AngularJS Directives
  * [anyToJson](https://github.com/lastlegion/anyToJSON): Converts any data repository to JSON(or atleast strives to! :D). Currently converts flat-file JSON, flat-file CSV, REST JSON, REST CSV and Databases(via ODBC) to JSON.
  * [react-validation-mixin](https://github.com/jurassix/react-validation-mixin): Simple validation mixin (HoC) for React.
- * [react-render-mixin](https://github.com/jurassix/react-immutable-render-mixin): react pure render mixin for facebook/immutable-js library
+ * [react-immutable-render-mixin](https://github.com/jurassix/react-immutable-render-mixin): react pure render mixin for facebook/immutable-js library
  
 PHP
 ---
