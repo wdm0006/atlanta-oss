@@ -25,7 +25,6 @@ Sections
  * [PHP](#php)
  * [WordPress](#wordpress)
  * [Data Science](#data-science)
- * [Bitcoin](#bitcoin)
  * [Databases and Datastores](#databases-and-datastores)
  * [Infrastructure and Monitoring](#infrastructure-and-monitoring)
  * [Examples and Tutorials](#examples-and-tutorials)
@@ -133,13 +132,6 @@ Data Science
  * [category_encoders](https://github.com/scikit-learn-contrib/category_encoders): A library for using and evaluating different methods of coding categorical variables
  * [petersburg](https://github.com/wdm0006/petersburg): A simple framework for simulating complex (probabalistic) decisions
 
-Bitcoin
--------
-
- * [cpuminer](https://github.com/jgarzik/cpuminer): CPU miner for bitcoin
- * [pynode](https://github.com/jgarzik/pynode): Bitcoin P2P router, in python
- * [python-bitcoinrpc](https://github.com/jgarzik/python-bitcoinrpc): Python interface to bitcoin's JSON-RPC API
-
 Infrastructure and Monitoring
 -----------------------------
 
@@ -171,5 +163,4 @@ Misc
  * [phabulous](https://github.com/etcinit/phabulous): A Phabricator bot for Slack
  * [octodown](https://github.com/ianks/octodown): Github markdown previewing straight from your shell.
  * [nexus-tools](https://github.com/corbindavenport/nexus-tools): Tool to install ADB and Fastboot on Mac OS X and Linux.
-
 
