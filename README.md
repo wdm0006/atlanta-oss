@@ -13,7 +13,6 @@ Sections
 
  * [Python](#python)
  * [Ruby](#ruby)
- * [Javascript](#javascript)
  * [JVM Languages](#jvm-languages)
  * [Golang](#golang)
  * [Rust](#rust)
@@ -67,15 +66,6 @@ Rust
 
  * [rusqlite](https://github.com/jgallagher/rusqlite): Ergonomic bindings to SQLite for Rust
 
-Javascript
-----------
-
- * [Meow](https://github.com/zacstewart/Meow): A Growl work-a-like plugin for jQuery
- * [Black-Belt-AngularJS-Directives](https://github.com/joshkurz/Black-Belt-AngularJS-Directives): A Directive set to help Master AngularJS Directives
- * [anyToJson](https://github.com/lastlegion/anyToJSON): Converts any data repository to JSON(or atleast strives to! :D). Currently converts flat-file JSON, flat-file CSV, REST JSON, REST CSV and Databases(via ODBC) to JSON.
- * [react-validation-mixin](https://github.com/jurassix/react-validation-mixin): Simple validation mixin (HoC) for React.
- * [react-immutable-render-mixin](https://github.com/jurassix/react-immutable-render-mixin): react pure render mixin for facebook/immutable-js library
- 
 PHP
 ---
 
