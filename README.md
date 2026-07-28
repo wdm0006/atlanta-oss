@@ -86,13 +86,8 @@ PHP
 WordPress
 ---------
 
- * [wordpress-widget-boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate): The WordPress Widget Boilerplate is an organized, maintainable boilerplate for building widgets using WordPress best practices.
- * [wordpress-settings-sandbox](https://github.com/tommcfarlin/WordPress-Settings-Sandbox): A simple theme used to showcase the WordPress Settings API. The corresponding series of articles will run on Envato's TutsPlus Network.
  * [wplib](https://github.com/wplib): The Developer Experience Project for WordPress
      * [wplib/wplib](https://github.com/wplib/wplib): A PHP Library plus Conventions for Building Robust Custom WordPress Apps
-     * [wplib/wplib-box](https://github.com/wplib/wplib-box): The Easiest Vagrant Box for WordPress Local Development 
- * [page-template-example](https://github.com/tommcfarlin/page-template-example): An example WordPress plugin used to show how to include templates with your plugins and programmatically add them to the active theme.
- * [less](https://github.com/alliswell/Less): A simple minimal WordPress theme built with only what is needed to survive
 
 C and C++
 ---------
