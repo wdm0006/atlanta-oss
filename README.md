@@ -21,7 +21,6 @@ Sections
  * [.NET](#net)
  * [Lisp](#lisp)
  * [Objective C](#objective-c)
- * [Swift](#swift)
  * [PHP](#php)
  * [WordPress](#wordpress)
  * [Data Science](#data-science)
@@ -112,14 +111,7 @@ JVM Languages
 Objective C
 -----------
 
- * [BlocksKit](https://github.com/BlocksKit/BlocksKit): The Objective-C block utilities you always wish you had.
  * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications): An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.
- * [JFDepthView](https://github.com/atljeremy/JFDepthView): iOS project for presenting views with a 3D effect to add depth
-
-Swift
------
-
- * [Markingbird](https://github.com/kristopherjohnson/Markingbird): Markdown processor written in Swift (translation of MarkdownSharp)
 
 Lisp
 ----
