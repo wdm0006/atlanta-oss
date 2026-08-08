@@ -34,28 +34,17 @@ Python
  * [git-pandas](https://github.com/wdm0006/git-pandas): A wrapper around gitpython to produce pandas dataframes for analysis
  * [gitnoc](https://github.com/wdm0006/gitnoc): A simple ui for git-pandas using nvd3 and flask
  * [pygeohash](https://github.com/wdm0006/pygeohash): Python module for interacting with geohashes
- * [sockjs-tornado](https://github.com/mrjoes/sockjs-tornado): WebSocket emulation - Python server
  * [flask-admin](https://github.com/pallets-eco/flask-admin): Simple and extensible administrative interface framework for Flask
- * [django-celery-email](https://github.com/pmclanahan/django-celery-email): A Django 1.3+ email backend that uses a celery task for sending the email.
- * [smokesignal](https://github.com/shaunduncan/smokesignal): Simple python signaling
- * [peachpy](https://github.com/Maratyszcza/PeachPy): x86-64 assembler embedded in Python
  * [vcrpy](https://github.com/kevin1024/vcrpy): Record and replay HTTP interactions to simplify and speed up tests
 
 Ruby
 ----
 
- * [zonebie](https://github.com/alindeman/zonebie): Zonebie prevents bugs in code that deals with timezones by randomly assigning a zone on every run
  * [teslon](https://github.com/timdorr/tesla-api): A Ruby gem and unofficial documentation of the Tesla JSON API
  * [setler](https://github.com/ckdake/setler): Setler lets you use the 'Feature Flags' pattern or add settings to models in Rails
- * [inviter](https://github.com/tech404/inviter): The application behind the tech404 automatic invitation system
- * [git_time_extractor](https://github.com/rietta/git_time_extractor): Analyzes Git repository commit logs to compute developer working hours, weekly activity, and to detect death marches in software development.
  * [dumb_delegator](https://github.com/stevenharman/dumb_delegator): Delegator and SimpleDelegator in Ruby's stdlib are somewhat useful, but they pull in most of Kernel. This is not appropriate for many uses; for instance, delegation to Rails models.
  * [gibbon](https://github.com/amro/gibbon): Gibbon is an API wrapper for MailChimp's API
- * [stringex](https://github.com/rsl/stringex): Some [hopefully] useful extensions to Ruby’s String class. It is made up of three libraries: ActsAsUrl [permalink solution with better character translation], Unidecoder [Unicode to Ascii transliteration], and StringExtensions [miscellaneous helper methods for the String class].
- * [searchlight](https://github.com/nathanl/searchlight): Searchlight helps you build searches from options via Ruby methods that you write. 
- * [authority](https://github.com/nathanl/authority): Authority helps you authorize actions in your Rails app. It's ORM-neutral and has very little fancy syntax; just group your models under one or more Authorizer classes and write plain Ruby methods on them.
  * [rack-cors](https://github.com/cyu/rack-cors): Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
- * [slack-notifier](https://github.com/slack-notifier/slack-notifier): A simple wrapper for posting to slack channels
  * [homesick](https://github.com/technicalpickles/homesick): Manage and deploy your dotfiles as git-backed "castles"
  * [algorithms](https://github.com/kanwei/algorithms): Ruby algorithms and data structures, with C extensions
  * [rotp](https://github.com/mdp/rotp): Ruby one-time password library (TOTP/HOTP)
