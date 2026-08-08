@@ -39,6 +39,7 @@ Python
  * [django-celery-email](https://github.com/pmclanahan/django-celery-email): A Django 1.3+ email backend that uses a celery task for sending the email.
  * [smokesignal](https://github.com/shaunduncan/smokesignal): Simple python signaling
  * [peachpy](https://github.com/Maratyszcza/PeachPy): x86-64 assembler embedded in Python
+ * [vcrpy](https://github.com/kevin1024/vcrpy): Record and replay HTTP interactions to simplify and speed up tests
 
 Ruby
 ----
@@ -55,22 +56,29 @@ Ruby
  * [authority](https://github.com/nathanl/authority): Authority helps you authorize actions in your Rails app. It's ORM-neutral and has very little fancy syntax; just group your models under one or more Authorizer classes and write plain Ruby methods on them.
  * [rack-cors](https://github.com/cyu/rack-cors): Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
  * [slack-notifier](https://github.com/slack-notifier/slack-notifier): A simple wrapper for posting to slack channels
+ * [homesick](https://github.com/technicalpickles/homesick): Manage and deploy your dotfiles as git-backed "castles"
+ * [algorithms](https://github.com/kanwei/algorithms): Ruby algorithms and data structures, with C extensions
+ * [rotp](https://github.com/mdp/rotp): Ruby one-time password library (TOTP/HOTP)
 
 Golang
 ------
 
  * [speedbump](https://github.com/etcinit/speedbump): A Redis-backed rate limiter in Go
+ * [protoreflect](https://github.com/jhump/protoreflect): Rich descriptors and reflection for Go Protocol Buffers
+ * [git-hound](https://github.com/tillson/git-hound): GitHub reconnaissance tool that scans for leaked secrets
 
 Rust
 ----
 
  * [rusqlite](https://github.com/jgallagher/rusqlite): Ergonomic bindings to SQLite for Rust
+ * [divan](https://github.com/nvzqz/divan): Fast and simple benchmarking for Rust projects
 
 PHP
 ---
 
  * [ProcessWire](https://github.com/ryancramerdesign/ProcessWire): ProcessWire 2.7. PHP 5 based CMS and CMF (content management system and framework). See the dev branch for the latest development version (new versions weekly).
  * [WildPHP](https://github.com/WildPHP/irc-bot): A simple and modular PHP IRC bot
+ * [erpsaas](https://github.com/andrewdwallo/erpsaas): Laravel and Filament-powered double-entry accounting platform
 
 WordPress
 ---------
@@ -82,11 +90,14 @@ C and C++
 ---------
  
  * [univalue](https://github.com/jgarzik/univalue): C++ universal value object and JSON library
+ * [notcurses](https://github.com/dankamongmen/notcurses): Character graphics and TUI library for modern terminals
+ * [flex](https://github.com/westes/flex): The fast lexical analyzer - scanner generator for lexing in C and C++
 
 .NET
 ----
 
  * [MailChimp.NET](https://github.com/danesparza/MailChimp.NET): .NET Wrapper for the MailChimp v2.0 API
+ * [craftsman](https://github.com/pdevito3/craftsman): A .NET scaffolding tool for generating project boilerplate
 
 JVM Languages
 -------------
@@ -108,6 +119,7 @@ Data Science
 
  * [category_encoders](https://github.com/scikit-learn-contrib/category_encoders): A library for using and evaluating different methods of coding categorical variables
  * [petersburg](https://github.com/wdm0006/petersburg): A simple framework for simulating complex (probabalistic) decisions
+ * [vaderSentiment](https://github.com/cjhutto/vaderSentiment): Lexicon and rule-based sentiment analysis tuned for social media text
 
 Infrastructure and Monitoring
 -----------------------------
@@ -141,3 +153,5 @@ Misc
  * [octodown](https://github.com/ianks/octodown): Github markdown previewing straight from your shell.
  * [nexus-tools](https://github.com/corbindavenport/nexus-tools): Tool to install ADB and Fastboot on Mac OS X and Linux.
 
+ * [kicanvas](https://github.com/theacodes/kicanvas): An interactive web viewer for KiCad schematics and boards
+ * [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler): Scrobble music plays from multiple sources to multiple clients
