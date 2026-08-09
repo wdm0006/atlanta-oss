@@ -24,7 +24,6 @@ Sections
  * [WordPress](#wordpress)
  * [Data Science](#data-science)
  * [Databases and Datastores](#databases-and-datastores)
- * [Infrastructure and Monitoring](#infrastructure-and-monitoring)
  * [Examples and Tutorials](#examples-and-tutorials)
  * [Misc](#misc)
 
@@ -110,11 +109,6 @@ Data Science
  * [petersburg](https://github.com/wdm0006/petersburg): A simple framework for simulating complex (probabalistic) decisions
  * [vaderSentiment](https://github.com/cjhutto/vaderSentiment): Lexicon and rule-based sentiment analysis tuned for social media text
 
-Infrastructure and Monitoring
------------------------------
-
- * [foreman](https://github.com/ddollar/foreman): Manage Procfile-based applications
-
 Databases and Datastores
 ------------------------
 
@@ -127,8 +121,6 @@ Examples and Tutorials
 
 Misc
 ----
-
- * [GitGutter](https://github.com/jisaacks/GitGutter): A Sublime Text 2/3 plugin to see git diff in gutter
 
  * [kicanvas](https://github.com/theacodes/kicanvas): An interactive web viewer for KiCad schematics and boards
  * [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler): Scrobble music plays from multiple sources to multiple clients
