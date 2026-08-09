@@ -113,9 +113,7 @@ Data Science
 Infrastructure and Monitoring
 -----------------------------
 
- * [ElasticHQ](https://github.com/ElasticHQ/elasticsearch-HQ): Monitoring and Management Web Application for ElasticSearch instances and clusters.
  * [foreman](https://github.com/ddollar/foreman): Manage Procfile-based applications
- * [chef-logstash](https://github.com/lusis/chef-logstash): Semi-official Logstash cookbook
 
 Databases and Datastores
 ------------------------
@@ -125,22 +123,12 @@ Databases and Datastores
 Examples and Tutorials
 ----------------------
 
- * [akka-java-examples](https://github.com/royrusso/akka-java-examples): Example implementation of various akka patterns in Java
  * [python-flink-examples](https://github.com/wdm0006/flink-python-examples): A collection of examples using flinks new python API
- * [angular-tutorial](https://github.com/sb8244/angular-tutorial): A newbie friendly tutorial for angular
- * [android-studio-robolectric-example](https://github.com/joshskeen/android-studio-robolectric-example): how to set up robolectric to work with Android Studio and gradle
- * [AngularHealthApp](https://github.com/JeremyLikness/AngularHealthApp): Example of building a health application using AngularJS
- * [Botanig-NG](https://github.com/ghillert/botanic-ng): Angular JS Sample Application
- * [neural-networks-demystified](https://github.com/stephencwelch/Neural-Networks-Demystified): Supporting code for short YouTube series Neural Networks Demystified.
 
 Misc
 ----
 
  * [GitGutter](https://github.com/jisaacks/GitGutter): A Sublime Text 2/3 plugin to see git diff in gutter
- * [git_tracker](https://github.com/stevenharman/git_tracker): Some simple tricks that make working with Pivotal Tracker even better... and easier... um, besier!
- * [phabulous](https://github.com/etcinit/phabulous): A Phabricator bot for Slack
- * [octodown](https://github.com/ianks/octodown): Github markdown previewing straight from your shell.
- * [nexus-tools](https://github.com/corbindavenport/nexus-tools): Tool to install ADB and Fastboot on Mac OS X and Linux.
 
  * [kicanvas](https://github.com/theacodes/kicanvas): An interactive web viewer for KiCad schematics and boards
  * [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler): Scrobble music plays from multiple sources to multiple clients
