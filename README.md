@@ -13,7 +13,6 @@ Sections
 
  * [Python](#python)
  * [Ruby](#ruby)
- * [JVM Languages](#jvm-languages)
  * [Golang](#golang)
  * [Rust](#rust)
  * [C and C++](#c-and-c)
@@ -23,7 +22,6 @@ Sections
  * [PHP](#php)
  * [WordPress](#wordpress)
  * [Data Science](#data-science)
- * [Databases and Datastores](#databases-and-datastores)
  * [Examples and Tutorials](#examples-and-tutorials)
  * [Misc](#misc)
 
@@ -51,21 +49,17 @@ Ruby
 Golang
 ------
 
- * [speedbump](https://github.com/etcinit/speedbump): A Redis-backed rate limiter in Go
  * [protoreflect](https://github.com/jhump/protoreflect): Rich descriptors and reflection for Go Protocol Buffers
  * [git-hound](https://github.com/tillson/git-hound): GitHub reconnaissance tool that scans for leaked secrets
 
 Rust
 ----
 
- * [rusqlite](https://github.com/jgallagher/rusqlite): Ergonomic bindings to SQLite for Rust
  * [divan](https://github.com/nvzqz/divan): Fast and simple benchmarking for Rust projects
 
 PHP
 ---
 
- * [ProcessWire](https://github.com/ryancramerdesign/ProcessWire): ProcessWire 2.7. PHP 5 based CMS and CMF (content management system and framework). See the dev branch for the latest development version (new versions weekly).
- * [WildPHP](https://github.com/WildPHP/irc-bot): A simple and modular PHP IRC bot
  * [erpsaas](https://github.com/andrewdwallo/erpsaas): Laravel and Filament-powered double-entry accounting platform
 
 WordPress
@@ -77,20 +71,13 @@ WordPress
 C and C++
 ---------
  
- * [univalue](https://github.com/jgarzik/univalue): C++ universal value object and JSON library
  * [notcurses](https://github.com/dankamongmen/notcurses): Character graphics and TUI library for modern terminals
  * [flex](https://github.com/westes/flex): The fast lexical analyzer - scanner generator for lexing in C and C++
 
 .NET
 ----
 
- * [MailChimp.NET](https://github.com/danesparza/MailChimp.NET): .NET Wrapper for the MailChimp v2.0 API
  * [craftsman](https://github.com/pdevito3/craftsman): A .NET scaffolding tool for generating project boilerplate
-
-JVM Languages
--------------
-
- * [akka-persistance-mongo](https://github.com/scullxbones/akka-persistence-mongo): Implementation of akka-persistence storage plugins for mongodb
 
 Objective C
 -----------
@@ -108,11 +95,6 @@ Data Science
  * [category_encoders](https://github.com/scikit-learn-contrib/category_encoders): A library for using and evaluating different methods of coding categorical variables
  * [petersburg](https://github.com/wdm0006/petersburg): A simple framework for simulating complex (probabalistic) decisions
  * [vaderSentiment](https://github.com/cjhutto/vaderSentiment): Lexicon and rule-based sentiment analysis tuned for social media text
-
-Databases and Datastores
-------------------------
-
- * [automongobackup](https://github.com/micahwedemeyer/automongobackup): Nightly, rotated backups of MongoDB (port of AutoMySQLBackup for use with Mongo)
 
 Examples and Tutorials
 ----------------------
