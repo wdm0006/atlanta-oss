@@ -33,6 +33,7 @@ Python
  * [pygeohash](https://github.com/wdm0006/pygeohash): Python module for interacting with geohashes
  * [flask-admin](https://github.com/pallets-eco/flask-admin): Simple and extensible administrative interface framework for Flask
  * [vcrpy](https://github.com/kevin1024/vcrpy): Record and replay HTTP interactions to simplify and speed up tests
+ * [pytest-httpbin](https://github.com/kevin1024/pytest-httpbin): Test HTTP libraries against a local copy of httpbin.org
 
 Ruby
 ----
@@ -56,6 +57,7 @@ Rust
 ----
 
  * [divan](https://github.com/nvzqz/divan): Fast and simple benchmarking for Rust projects
+ * [sqawk](https://github.com/jgarzik/sqawk): Apply SQL queries to text-based data files
 
 PHP
 ---
@@ -67,6 +69,8 @@ WordPress
 
  * [wplib](https://github.com/wplib): The Developer Experience Project for WordPress
      * [wplib/wplib](https://github.com/wplib/wplib): A PHP Library plus Conventions for Building Robust Custom WordPress Apps
+ * [wp-nested-pages](https://github.com/kylephillips/wp-nested-pages): Manage pages and content structure intuitively in the WordPress admin
+ * [wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown): Convert a WordPress export XML file into Markdown files
 
 C and C++
 ---------
@@ -95,6 +99,7 @@ Data Science
  * [category_encoders](https://github.com/scikit-learn-contrib/category_encoders): A library for using and evaluating different methods of coding categorical variables
  * [petersburg](https://github.com/wdm0006/petersburg): A simple framework for simulating complex (probabalistic) decisions
  * [vaderSentiment](https://github.com/cjhutto/vaderSentiment): Lexicon and rule-based sentiment analysis tuned for social media text
+ * [latent-scope](https://github.com/enjalot/latent-scope): A scientific instrument for investigating latent spaces
 
 Examples and Tutorials
 ----------------------
