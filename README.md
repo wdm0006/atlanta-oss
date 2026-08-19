@@ -34,6 +34,7 @@ Python
  * [flask-admin](https://github.com/pallets-eco/flask-admin): Simple and extensible administrative interface framework for Flask
  * [vcrpy](https://github.com/kevin1024/vcrpy): Record and replay HTTP interactions to simplify and speed up tests
  * [pytest-httpbin](https://github.com/kevin1024/pytest-httpbin): Test HTTP libraries against a local copy of httpbin.org
+ * [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook): Generate audiobooks from e-books, with voice cloning and multi-language support
 
 Ruby
 ----
@@ -52,12 +53,14 @@ Golang
 
  * [protoreflect](https://github.com/jhump/protoreflect): Rich descriptors and reflection for Go Protocol Buffers
  * [git-hound](https://github.com/tillson/git-hound): GitHub reconnaissance tool that scans for leaked secrets
+ * [qrterminal](https://github.com/mdp/qrterminal): Render QR codes in your terminal
 
 Rust
 ----
 
  * [divan](https://github.com/nvzqz/divan): Fast and simple benchmarking for Rust projects
  * [sqawk](https://github.com/jgarzik/sqawk): Apply SQL queries to text-based data files
+ * [iocraft](https://github.com/ccbrown/iocraft): A crate for building beautiful CLIs, TUIs and text-based IO
 
 PHP
 ---
@@ -82,6 +85,7 @@ C and C++
 ----
 
  * [craftsman](https://github.com/pdevito3/craftsman): A .NET scaffolding tool for generating project boilerplate
+ * [QueryKit](https://github.com/pdevito3/QueryKit): A .NET library with a fluent syntax for filtering and sorting your data
 
 Objective C
 -----------
@@ -111,3 +115,4 @@ Misc
 
  * [kicanvas](https://github.com/theacodes/kicanvas): An interactive web viewer for KiCad schematics and boards
  * [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler): Scrobble music plays from multiple sources to multiple clients
+ * [auto-editor](https://github.com/WyattBlue/auto-editor): Command line tool that automatically edits video and audio by cutting out silent sections
