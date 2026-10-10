@@ -80,6 +80,8 @@ C and C++
  
  * [notcurses](https://github.com/dankamongmen/notcurses): Character graphics and TUI library for modern terminals
  * [flex](https://github.com/westes/flex): The fast lexical analyzer - scanner generator for lexing in C and C++
+ * [Fire](https://github.com/jerryuhoo/Fire): A multiband distortion audio plugin
+ * [libpo32](https://github.com/ericlewis/libpo32): C99 library for PO-32 acoustic transfers and drum synthesis
 
 .NET
 ----
@@ -116,3 +118,6 @@ Misc
  * [kicanvas](https://github.com/theacodes/kicanvas): An interactive web viewer for KiCad schematics and boards
  * [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler): Scrobble music plays from multiple sources to multiple clients
  * [auto-editor](https://github.com/WyattBlue/auto-editor): Command line tool that automatically edits video and audio by cutting out silent sections
+ * [jekyll-docker](https://github.com/envygeeks/jekyll-docker): Docker images and CI builders for Jekyll
+ * [xaringanExtra](https://github.com/gadenbuie/xaringanExtra): A playground of enhancements and extensions for xaringan slides in R
+ * [tdrop](https://github.com/noctuid/tdrop): A window-manager-independent dropdown window creator for shell scripts
