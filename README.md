@@ -106,6 +106,9 @@ Data Science
  * [petersburg](https://github.com/wdm0006/petersburg): A simple framework for simulating complex (probabalistic) decisions
  * [vaderSentiment](https://github.com/cjhutto/vaderSentiment): Lexicon and rule-based sentiment analysis tuned for social media text
  * [latent-scope](https://github.com/enjalot/latent-scope): A scientific instrument for investigating latent spaces
+ * [epoxy](https://github.com/gadenbuie/epoxy): Extra-strength glue engines for R Markdown, Quarto, and Shiny
+ * [countdown](https://github.com/gadenbuie/countdown): Countdown timers for Quarto, R Markdown, and Shiny
+ * [cleanrmd](https://github.com/gadenbuie/cleanrmd): Clean classless HTML documents for R Markdown
 
 Examples and Tutorials
 ----------------------
