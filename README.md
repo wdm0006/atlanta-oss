@@ -18,7 +18,6 @@ Sections
  * [C and C++](#c-and-c)
  * [.NET](#net)
  * [Lisp](#lisp)
- * [Objective C](#objective-c)
  * [PHP](#php)
  * [WordPress](#wordpress)
  * [Data Science](#data-science)
@@ -88,11 +87,6 @@ C and C++
 
  * [craftsman](https://github.com/pdevito3/craftsman): A .NET scaffolding tool for generating project boilerplate
  * [QueryKit](https://github.com/pdevito3/QueryKit): A .NET library with a fluent syntax for filtering and sorting your data
-
-Objective C
------------
-
- * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications): An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.
 
 Lisp
 ----
