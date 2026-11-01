@@ -46,6 +46,7 @@ Ruby
  * [homesick](https://github.com/technicalpickles/homesick): Manage and deploy your dotfiles as git-backed "castles"
  * [algorithms](https://github.com/kanwei/algorithms): Ruby algorithms and data structures, with C extensions
  * [rotp](https://github.com/mdp/rotp): Ruby one-time password library (TOTP/HOTP)
+ * [action_auth](https://github.com/kobaltz/action_auth): Authentication Rails engine with modern token-based auth and password reset flows
 
 Golang
 ------
@@ -60,6 +61,7 @@ Rust
  * [divan](https://github.com/nvzqz/divan): Fast and simple benchmarking for Rust projects
  * [sqawk](https://github.com/jgarzik/sqawk): Apply SQL queries to text-based data files
  * [iocraft](https://github.com/ccbrown/iocraft): A crate for building beautiful CLIs, TUIs and text-based IO
+ * [diesel-guard](https://github.com/ayarotsky/diesel-guard): Linter for dangerous Postgres migration patterns in Diesel and SQLx
 
 PHP
 ---
@@ -118,3 +120,6 @@ Misc
  * [jekyll-docker](https://github.com/envygeeks/jekyll-docker): Docker images and CI builders for Jekyll
  * [xaringanExtra](https://github.com/gadenbuie/xaringanExtra): A playground of enhancements and extensions for xaringan slides in R
  * [tdrop](https://github.com/noctuid/tdrop): A window-manager-independent dropdown window creator for shell scripts
+ * [alpha-nvim](https://github.com/goolord/alpha-nvim): A Lua-powered greeter for Neovim
+ * [playnite-web](https://github.com/andrew-codes/playnite-web): Self-hosted Playnite companion web app for remote control, automation and sharing your game library
+ * [switchyard](https://github.com/alyraffauf/switchyard): Rules-based browser gateway and link redirector
