@@ -62,6 +62,7 @@ Rust
  * [sqawk](https://github.com/jgarzik/sqawk): Apply SQL queries to text-based data files
  * [iocraft](https://github.com/ccbrown/iocraft): A crate for building beautiful CLIs, TUIs and text-based IO
  * [diesel-guard](https://github.com/ayarotsky/diesel-guard): Linter for dangerous Postgres migration patterns in Diesel and SQLx
+ * [hk](https://github.com/jgarzik/hk): A Linux-compatible operating system kernel written in Rust for modern multi-core 64-bit machines
 
 PHP
 ---
@@ -105,6 +106,7 @@ Data Science
  * [epoxy](https://github.com/gadenbuie/epoxy): Extra-strength glue engines for R Markdown, Quarto, and Shiny
  * [countdown](https://github.com/gadenbuie/countdown): Countdown timers for Quarto, R Markdown, and Shiny
  * [cleanrmd](https://github.com/gadenbuie/cleanrmd): Clean classless HTML documents for R Markdown
+ * [regexplain](https://github.com/gadenbuie/regexplain): An RStudio addin and regex utility belt for seeing what your regular expressions do
 
 Examples and Tutorials
 ----------------------
